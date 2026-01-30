@@ -59,3 +59,6 @@ Học máy có ứng dụng rộng khắp trong đời sống và sản xuất:
 • Y tế: Chẩn đoán bệnh tự động, phân tích ảnh X-quang.
 • Tài chính: Phát hiện gian lận thẻ tín dụng, phân tích thị trường chứng khoán.
 • Giáo dục: Cá nhân hóa lộ trình học tập, hệ thống dạy học thông minh (ITS) giúp chẩn đoán vấn đề của từng người học.
+
+
+1. Đại số tuyến tính: Cấu trúc của dữ liệuTrong AI, dữ liệu không đứng đơn lẻ. Đại số tuyến tính cho phép chúng ta xử lý hàng triệu phép tính cùng lúc thông qua cấu trúc ma trận.Vector hóa (Vectorization): Một tấm ảnh màu $28 \times 28$ pixel thực chất là một ma trận số. Việc nhận diện khuôn mặt chính là thực hiện các phép nhân ma trận khổng lồ để tìm ra các đặc điểm (mắt, mũi, miệng).Giảm chiều dữ liệu (PCA): Khi dữ liệu quá lớn, chúng ta dùng toán học để loại bỏ các thông tin thừa nhưng vẫn giữ lại "linh hồn" của dữ liệu, giúp máy tính chạy nhanh hơn.Phép nhân Ma trận: Đây là lõi của mọi Card đồ họa (GPU). Khi bạn chạy ChatGPT, hàng tỷ phép tính $C = A \times B$ đang diễn ra mỗi giây.
